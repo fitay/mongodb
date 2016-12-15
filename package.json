@@ -1,6 +1,6 @@
 {
   "name": "fitay-db-migrate-mongodb",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "mongodb driver for db-migrate forked from db-migrate-mongodb",
   "main": "index.js",
   "scripts": {
